@@ -1,7 +1,7 @@
 iVersion: apps/v1
 kind: Deployment
 metadata:
-  name: automaticcontainrizationazureproject-deployment
+  name: automaticcontainrizationazureprojectdpl
 spec:
   replicas: 1
   selector:
