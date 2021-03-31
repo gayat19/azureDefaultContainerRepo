@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ACAy2v8EWKl6NQj//QzxCvT0NVv954QbEDUZ7fG3HsDZB6DeKCbStQkh6H73rogiCUyFV2HnDg+5/BcGFUPnDg==",
+  "success": true,
+  "projectFilePath": "D:\\Data\\d drive\\Corp\\RPS\\CTS\\CDE20ID004\\Stage3Day1\\Stage4\\Day13\\AutomaticContainrizationAzureProject\\AutomaticContainrizationAzureProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gayat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
